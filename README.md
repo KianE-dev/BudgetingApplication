@@ -37,5 +37,13 @@ Compile and run using the Java compiler:
 javac yourpackage/*.java
 java yourpackage.Application
 
+## Lessons Learned
+- How to structure a multi-class Java application
+- How to build interactive UIs with Java Swing
+- How to handle user input and validation
+- How to design simple workflows across multiple windows
+- How to debug event-driven code
+
+
 ## Notes
 This project is provided without a license and is intended solely as a portfolio piece. All rights reserved.
