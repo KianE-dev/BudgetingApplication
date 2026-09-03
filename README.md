@@ -1,9 +1,9 @@
-# BudgetingApplication
+# BudgetingApplication (named K's Budgeting)
 
 A full desktop budgeting tool built in Java Swing as my first complete application during the early stages of my software development journey. This project represents the foundation of my growth as a developer — from learning UI components to structuring multi‑class applications and handling real user input.
 
 ## Overview
-Budgeting Application allows users to track income sources, spending categories, savings goals, and financial partitions through an interactive multi‑window interface. The application uses Java Swing for all UI elements and demonstrates event‑driven programming, input validation, and basic data management.
+K's Budgeting allows users to track income sources, spending categories, savings goals, and financial partitions through an interactive multi‑window interface. The application uses Java Swing for all UI elements and demonstrates event‑driven programming, input validation, and basic data management.
 
 ## Features
 - Multi‑window interface built with Java Swing
